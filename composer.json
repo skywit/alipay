@@ -1,0 +1,26 @@
+
+{
+  "name": "skywit/alipay",
+  "type": "library",
+  "description": "open.alipay.com",
+  "keywords": ["open.alipay.com"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Skywit",
+      "email": "arlex.xie@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">5.5"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ],
+    "psr-0": {
+      "Skywit\\alipay\\": "src/"
+    }
+  }
+}
