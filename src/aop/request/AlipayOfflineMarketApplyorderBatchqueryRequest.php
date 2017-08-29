@@ -3,7 +3,7 @@
  * ALIPAY API: alipay.offline.market.applyorder.batchquery request
  *
  * @author auto create
- * @since 1.0, 2016-08-02 21:47:43
+ * @since 1.0, 2017-07-06 11:11:37
  */
 class AlipayOfflineMarketApplyorderBatchqueryRequest
 {
